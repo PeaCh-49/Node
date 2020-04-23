@@ -1,0 +1,12 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Dev Server",
+  "main": "index.js",
+  "scripts": {
+    "test": "testserver",
+    "start": "node index.js"
+  },
+  "author": "tom",
+  "license": "ISC"
+}
